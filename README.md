@@ -1,1 +1,1 @@
-# Krtasiye takip Uygulamas C# Dili 
+# KÂirtasiye takip UygulamasÂi C# Dili 
